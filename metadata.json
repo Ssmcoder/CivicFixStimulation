@@ -1,0 +1,5 @@
+{
+  "name": "CivicFix",
+  "description": "Civic grievance reporting, explainable priority triage, incident deduplication, and municipal operations platform.",
+  "requestFramePermissions": ["geolocation"]
+}
